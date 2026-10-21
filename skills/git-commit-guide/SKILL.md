@@ -7,6 +7,9 @@ description: >
   to stage and commit changes. Provides project-specific conventional commit
   format, Thai-language comment conventions, and scope rules matched to this
   codebase's structure.
+  metadata:
+  author: Weerayut Mayusiri
+  version: "2.0.0"
 ---
 
 # Git Commit Guidelines
